@@ -27,6 +27,8 @@ The SuperBot Live Chat iOS SDK is really simple to integrate in your apps, and a
 - [x] Multi User Handling
 - [x] Unlimited Information Storage
 - [x] Objective-C compatibility
+- [x] Customizable Chat view
+- [x] Customizable SuperBot Button
 - [x] Many more is coming....
 
 ## Requirements
