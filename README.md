@@ -53,7 +53,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '10.0'
 use_frameworks!
 
-pod 'SuperBotSDK', :git =>"https://github.com/sandeeeppp/SuperBotSDK.git"
+pod 'SuperBotSDK', :git =>"https://github.com/antinolabsdev/SuperBotSDK.git"
 ```
 
 Then, run the following command:
@@ -106,8 +106,8 @@ SuperBot.sharedInstance.hideBot()
 
 ## Acknowledgements
 
-Made with ❤️ by [Sandeep Ahuja](https://github.com/sandeeeppp) from [Antino Labs](https://www.antino.io/).
+Made with ❤️ by [Antino Labs](https://www.antino.io/) and [PinnacleWorks](https://pinnacle.works/).
 
 
 ## License
-SuperBot is released under the MIT license. [See LICENSE](https://github.com/sandeeeppp/SuperBotSDK/blob/master/LICENSE) for details.
+SuperBot is released under the MIT license. [See LICENSE](https://github.com/antinolabsdev/SuperBotSDK/blob/master/LICENSE) for details.
