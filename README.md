@@ -31,7 +31,7 @@ The SuperBot Live Chat iOS SDK is really simple to integrate in your apps, and a
 
 ## Requirements
 
-- iOS 0.0+
+- iOS 9.0+
 - Xcode 10.2.1+
 - Swift 4.2 or Objective-C
 
@@ -50,7 +50,7 @@ To integrate the Customerly SDK into your Xcode project using CocoaPods, specify
 
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '10.0'
+platform :ios, '9.0'
 use_frameworks!
 
 pod 'SuperBotSDK', :git =>"https://github.com/antinolabsdev/SuperBotSDK.git"
