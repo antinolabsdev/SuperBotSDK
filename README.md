@@ -84,7 +84,7 @@ SuperBot.sharedInstance.hideBot()
 
 ## Contributing
 
-- If you **need help** or you'd like to **ask a general question**, contact us (support@pinnacleworks.net)
+- If you **need help** or you'd like to **ask a general question**, contact us support@pinnacleworks.net
 - If you **found a bug**, open a service request.
 - If you **have a feature request**, open a service request.
 - If you **want to contribute**, submit a pull request.
