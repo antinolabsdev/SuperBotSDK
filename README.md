@@ -2,34 +2,18 @@
 <a href="https://pinnacle.works">
   <img src="https://pinnacle.works/site/wp-content/uploads/revslider/home-w/superbots-1.png" height="100" alt="Live Chat ios SDK Help Desk"></a>
 </p>
-<h1>Live Chat iOS SDK from PinnacleWorks</h1>
-<h2> The Best-in-Class Live Chat for your mobile apps. Integrate painlessly the Live Chat for your customer support inside any iOS App with <a href="https://pinnacle.works/solutions/superbot/">SuperBot Live Chat </a> SDK </h2>
+<h1>SuperBot iOS SDK</h1>
+<h2> Best-in-Class ChatBot for your mobile apps. Integrate painlessly the ChatBot for your customer support inside any iOS App with <a href="https://pinnacle.works/solutions/superbot/">SuperBot</a> SDK </h2>
 
   [![Language](https://img.shields.io/badge/Swift-5-orange.svg)]()
   [![Language](https://img.shields.io/badge/Objective--C-compatible-blue.svg)]()
   [![License](https://img.shields.io/badge/license-Apache%20License%202.0-red.svg)]()
   
-**SuperBot** is the most complete <strong>Live Chat</strong> AI-driven Omni-channel conversation platform developed with the help of technologies like Machine Learning and Artificial Intelligence powered by Google Algorithms for assisting organizations to attend their online queries. 
+**SuperBot** is the most complete AI-driven Omni-channel conversation **ChatBot** developed with the help of technologies like Machine Learning and Artificial Intelligence powered by Google Algorithms for assisting organizations to attend their online queries.
 
-The Bot’s intelligence is backed by high data analytics and research.The AI technology used, makes it smarter every second, as it empowers the Bot with a Self-Learning Capability. 
+The Bot’s intelligence is backed by high data analytics and research. The AI technology used, makes it smarter every second, as it empowers the Bot with a Self-Learning Capability.
 
-The SuperBot Live Chat iOS SDK is really simple to integrate in your apps, and allow your users to contact you via chat.
-
-<p align="center">
-  <img src="https://pinnacle.works/site/wp-content/uploads/revslider/newsb/phone-1.png" width=300 alt="Live Chat Help Desk ios SDK "/>
-</p>
-
-## Features
-- [x] Support via live chat in real time
-- [x] Set attributes
-- [x] Self Learning
-- [x] High Response Rate
-- [x] Multi User Handling
-- [x] Unlimited Information Storage
-- [x] Objective-C compatibility
-- [x] Customizable Chat view
-- [x] Customizable SuperBot Button
-- [x] Many more is coming....
+The SuperBot iOS SDK is really simple to integrate into your apps, and allow your users to contact you via chat.
 
 ## Requirements
 
@@ -100,9 +84,9 @@ SuperBot.sharedInstance.hideBot()
 
 ## Contributing
 
-- If you **need help** or you'd like to **ask a general question**, open an issue or contact our support on [SuperBot](https://pinnacle.works/solutions/superbot/)
-- If you **found a bug**, open an issue.
-- If you **have a feature request**, open an issue.
+- If you **need help** or you'd like to **ask a general question**, contact us [https://pinnacle.works/solutions/superbot/]
+- If you **found a bug**, open a service request.
+- If you **have a feature request**, open a service request.
 - If you **want to contribute**, submit a pull request.
 
 
